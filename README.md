@@ -7,6 +7,12 @@ An interactive datasite for most popular STEM designated majors in top 100 unive
 • Model Name: Gemini 4 Argon (gemini-4-argon)
 • Release Date: October 13, 2026
 
+Dataset:
+
+https://www.kaggle.com/datasets/mariaatamanova/stem-programmes-at-the-top-100-universities-2025
+
+Web App link:
+
 https://sites.google.com/view/stemdegrees10-2026
 
 ![ARWU 2025 STEM Programmes](img/ARWU2025STEMProgrammes.png)
@@ -18,6 +24,10 @@ https://sites.google.com/view/stemdegrees10-2026
 
 • Model Name: Gemini 4 Argon (gemini-4-argon)
 • Release Date: October 13, 2026
+
+Data from open web
+
+Web App link:
 
 https://sites.google.com/view/amd4and5cpupricing
 
